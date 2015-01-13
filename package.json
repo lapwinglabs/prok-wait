@@ -17,5 +17,16 @@
   "dependencies": {
     "commander": "^2.6.0",
     "tcp-port-used": "^0.1.2"
-  }
+  },
+  "bin": {
+    "prok-wait": "./prok-wait"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lapwinglabs/prok-wait"
+  },
+  "bugs": {
+    "url": "https://github.com/lapwinglabs/prok-wait/issues"
+  },
+  "preferGlobal": true
 }
