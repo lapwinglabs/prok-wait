@@ -1,0 +1,21 @@
+{
+  "name": "prok-wait",
+  "version": "0.0.1",
+  "description": "Command line utility that blocks until a port is available. Useful for managing dependent processes.",
+  "main": "prok-wait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prok",
+    "procfile",
+    "port",
+    "wait"
+  ],
+  "author": "Brian Dentino",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "tcp-port-used": "^0.1.2"
+  }
+}
