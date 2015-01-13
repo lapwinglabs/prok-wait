@@ -27,6 +27,5 @@
   },
   "bugs": {
     "url": "https://github.com/lapwinglabs/prok-wait/issues"
-  },
-  "preferGlobal": true
+  }
 }
